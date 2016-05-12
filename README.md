@@ -3,7 +3,7 @@ Eloquent Laravel Course for artisans
 
 ###Additional Info
 
-Launch Date: Jun 30th, 2016
+Launch Date: Jul 30th, 2016
 
 Author: Eduardo Leiva (eleiva@gmail.com)
 
