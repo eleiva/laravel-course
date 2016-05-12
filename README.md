@@ -22,7 +22,7 @@ Status: in development
 [English](en/home.md) || [Español](es/home.md) 
 
 
-### Other Helpers
+###Other Helpers
 
 * [git -- help --lang=es](es/misc/git.md)
 * [vim --help --lang=es](es/misc/vim.md)
