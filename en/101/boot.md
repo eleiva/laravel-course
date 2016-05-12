@@ -1,3 +1,3 @@
-# Bienvenido al curso para principiantes de laravel
+# Welcome to the begginers laravel course 
 
 
