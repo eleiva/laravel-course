@@ -1,9 +1,13 @@
 # laravel-courses
 Eloquent Laravel Course for artisans 
 
-Status: in development
+###Additional Info
+
 Launch Date: Jun 30th, 2016
+
 Author: Eduardo Leiva (eleiva@gmail.com)
+
+Status: in development
 
 - [x] Repo Index
 - [ ] Index  for 101 Course
@@ -13,10 +17,12 @@ Author: Eduardo Leiva (eleiva@gmail.com)
 - [ ] Laravel 102 Spanish
 - [ ] Laravel 102 English
 
+###You can preview current work here:
+
 [English](en/home.md) || [Español](es/home.md) 
 
 
-# Other Helpers
+### Other Helpers
 
 * [git -- help --lang=es](es/misc/git.md)
 * [vim --help --lang=es](es/misc/vim.md)
